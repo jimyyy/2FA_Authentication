@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# Dependency lock files
+package-lock.json
